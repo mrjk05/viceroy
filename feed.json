@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Viceroy",
+    "description": "",
+    "home_page_url": "https://vice-roy.com",
+    "feed_url": "https://vice-roy.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Viceroy"
+    },
+    "items": [
+    ]
+}
