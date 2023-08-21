@@ -3,33 +3,35 @@
     <title>Viceroy</title>
     <link href="https://vice-roy.com/feed.xml" rel="self" />
     <link href="https://vice-roy.com" />
-    <updated>2023-07-03T20:51:06+10:00</updated>
+    <updated>2023-07-05T21:28:21+10:00</updated>
     <author>
         <name>Viceroy</name>
     </author>
     <id>https://vice-roy.com</id>
 
     <entry>
-        <title>Product page example</title>
+        <title>V I C E  R O Y </title>
         <author>
             <name>Viceroy</name>
         </author>
         <link href="https://vice-roy.com/product-page-example.html"/>
         <id>https://vice-roy.com/product-page-example.html</id>
-        <media:content url="https://vice-roy.com/media/posts/1/63363217-71E3-4B58-94DF-F7E2D915F0C8.jpeg" medium="image" />
 
-        <updated>2023-07-03T20:51:06+10:00</updated>
+        <updated>2023-07-05T21:28:21+10:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://vice-roy.com/media/posts/1/63363217-71E3-4B58-94DF-F7E2D915F0C8.jpeg" alt="" />
-                    some stuff here more stuff /**/
+                    Introducing Amazon, our latest addition to the collection inspired by the breathtaking butterflies of the Amazon. Meticulously crafted from the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://vice-roy.com/media/posts/1/63363217-71E3-4B58-94DF-F7E2D915F0C8.jpeg" class="type:primaryImage" alt="" /></p>
-                <p>some stuff here</p>
-<p>more stuff</p>
+                <p class="p1">Introducing Amazon, our latest addition to the collection inspired by the breathtaking butterflies of the Amazon. Meticulously crafted from the finest zebra wood, these sunglasses offer a harmonious blend of craftsmanship and style.</p>
+<p class="p1">Amazon embodies the spirit of the modern-day woman, who is an explorer at heart, reveling in cultural experiences that range from museum tours to lively markets, while always on the move, traveling the world. The lightweight and resilient zebra wood frame imbues these sunglasses with both sophistication and durability, ensuring that they can withstand any adventure you embark on. The polarized lenses provide crystal-clear vision, shielding your eyes from harmful UV rays and letting you see the world through a lens of clarity and beauty.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://vice-roy.com/media/posts/1/gallery/IMG_1566.jpg" data-size="2878x4029"><img loading="lazy" src="https://vice-roy.com/media/posts/1/gallery/IMG_1566-thumbnail.jpg" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://vice-roy.com/media/posts/1/gallery/IMG_1557.jpg" data-size="3200x4480"><img loading="lazy" src="https://vice-roy.com/media/posts/1/gallery/IMG_1557-thumbnail.jpg" alt="" width="768" height="1075"></a></figure>
+<figure class="gallery__item"><a href="https://vice-roy.com/media/posts/1/gallery/IMG_1514.jpg" data-size="3837x5371"><img loading="lazy" src="https://vice-roy.com/media/posts/1/gallery/IMG_1514-thumbnail.jpg" alt="" width="768" height="1075"></a></figure>
+</div></div>
 <div id="product-component-1688380989737"></div>
 <p>
 <script type="text/javascript">
@@ -73,7 +75,7 @@
         }
       },
       "button": {
-        "font-family": "Times New Roman, serif",
+        "font-family": "Helvetica, sans-serif",
         "font-size": "16px",
         "padding-top": "16px",
         "padding-bottom": "16px",
@@ -82,7 +84,7 @@
           "color": "#000000",
           "background-color": "#aad1da"
         },
-        "background-color": "#bde8f2",
+        "background-color": "#436953",
         ":focus": {
           "background-color": "#aad1da"
         },
@@ -141,7 +143,7 @@
         }
       },
       "button": {
-        "font-family": "Times New Roman, serif",
+        "font-family": "Helvetica, sans-serif",
         "font-size": "16px",
         "padding-top": "16px",
         "padding-bottom": "16px",
@@ -150,7 +152,7 @@
           "color": "#000000",
           "background-color": "#aad1da"
         },
-        "background-color": "#bde8f2",
+        "background-color": "#436953",
         ":focus": {
           "background-color": "#aad1da"
         },
@@ -186,7 +188,7 @@
   "cart": {
     "styles": {
       "button": {
-        "font-family": "Times New Roman, serif",
+        "font-family": "Helvetica, sans-serif",
         "font-size": "16px",
         "padding-top": "16px",
         "padding-bottom": "16px",
@@ -195,7 +197,7 @@
           "color": "#000000",
           "background-color": "#aad1da"
         },
-        "background-color": "#bde8f2",
+        "background-color": "#436953",
         ":focus": {
           "background-color": "#aad1da"
         }
@@ -256,8 +258,8 @@
   "toggle": {
     "styles": {
       "toggle": {
-        "font-family": "Times New Roman, serif",
-        "background-color": "#bde8f2",
+        "font-family": "Helvetica, sans-serif",
+        "background-color": "#436953",
         ":hover": {
           "background-color": "#aad1da"
         },
@@ -322,7 +324,6 @@
 /*]]>*/
 </script>
 </p>
-<figure class="post__image post__image--wide"><img loading="lazy"  src="https://vice-roy.com/media/posts/1/63363217-71E3-4B58-94DF-F7E2D915F0C8-2.jpeg" alt="" width="800" height="1422" sizes="(min-width: 37.5em) 1600px, 90vw" srcset="https://vice-roy.com/media/posts/1/responsive/63363217-71E3-4B58-94DF-F7E2D915F0C8-2-xs.jpeg 384w ,https://vice-roy.com/media/posts/1/responsive/63363217-71E3-4B58-94DF-F7E2D915F0C8-2-sm.jpeg 600w ,https://vice-roy.com/media/posts/1/responsive/63363217-71E3-4B58-94DF-F7E2D915F0C8-2-md.jpeg 768w ,https://vice-roy.com/media/posts/1/responsive/63363217-71E3-4B58-94DF-F7E2D915F0C8-2-lg.jpeg 1200w ,https://vice-roy.com/media/posts/1/responsive/63363217-71E3-4B58-94DF-F7E2D915F0C8-2-xl.jpeg 1600w"></figure>
             ]]>
         </content>
     </entry>
