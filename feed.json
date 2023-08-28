@@ -10,6 +10,48 @@
     },
     "items": [
         {
+            "id": "https://vice-roy.com/adonis.html",
+            "url": "https://vice-roy.com/adonis.html",
+            "title": "ADONIS",
+            "summary": "The classic aviator shape of Adonis embodies a timeless elegance that is sure to capture the hearts of adventurous men&hellip;",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://vice-roy.com/media/posts/4/IMG_1594.jpg\" alt=\"\" width=\"4386\" height=\"6140\" sizes=\"(min-width: 37.5em) 1600px, 90vw\" srcset=\"https://vice-roy.com/media/posts/4/responsive/IMG_1594-xs.jpg 384w ,https://vice-roy.com/media/posts/4/responsive/IMG_1594-sm.jpg 600w ,https://vice-roy.com/media/posts/4/responsive/IMG_1594-md.jpg 768w ,https://vice-roy.com/media/posts/4/responsive/IMG_1594-lg.jpg 1200w ,https://vice-roy.com/media/posts/4/responsive/IMG_1594-xl.jpg 1600w\"></figure>\n<p class=\"p1\">The classic aviator shape of Adonis embodies a timeless elegance that is sure to capture the hearts of adventurous men who are constantly pushing boundaries and creating a bright future. These sunglasses are designed for those who embrace their youthful spirit and cherish their past memories, while simultaneously pursuing new adventures.</p>\n<p>The sleek and refined design of Adonis is perfect for the modern-day adventurer who demands both style and function. The lightweight yet durable frame ensures that these sunglasses can withstand any journey, while the polarized lenses provide superior protection against harmful UV rays, allowing you to fully immerse yourself in your next adventure.</p>\n<p class=\"p1\">Adonis is not just a pair of sunglasses; it is a symbol of the spirit of those who seek to explore the world and create a better tomorrow. So why settle for ordinary sunglasses when you can have a piece of craftsmanship that is truly extraordinary? Join the ranks of those who respect the past and create the future, and step into the world of Adonis.</p>",
+            "author": {
+                "name": "Viceroy"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-12T21:45:08+10:00",
+            "date_modified": "2023-07-12T21:45:08+10:00"
+        },
+        {
+            "id": "https://vice-roy.com/jezabel.html",
+            "url": "https://vice-roy.com/jezabel.html",
+            "title": "JEZABEL ",
+            "summary": "Designed for the woman who seeks to journey to the world's most idyllic beaches in search of a tranquil respite&hellip;",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://vice-roy.com/media/posts/3/IMG_1508.jpg\" alt=\"\" width=\"370\" height=\"518\" sizes=\"(min-width: 37.5em) 1600px, 90vw\" srcset=\"https://vice-roy.com/media/posts/3/responsive/IMG_1508-xs.jpg 384w ,https://vice-roy.com/media/posts/3/responsive/IMG_1508-sm.jpg 600w ,https://vice-roy.com/media/posts/3/responsive/IMG_1508-md.jpg 768w ,https://vice-roy.com/media/posts/3/responsive/IMG_1508-lg.jpg 1200w ,https://vice-roy.com/media/posts/3/responsive/IMG_1508-xl.jpg 1600w\"></figure>\n<p class=\"p2\">Designed for the woman who seeks to journey to the world's most idyllic beaches in search of a tranquil respite from the pressures of everyday life, Jezebel is the perfect accessory for those seeking both style and sustainability. Jezebel is both understated and elegant, making it the perfect complement to any outfit.</p>\n<p>The high-quality lenses of Jezebel provide crystal-clear vision while protecting the wearer against the harsh glare of the sun's rays. Each pair is meticulously crafted to ensure durability and longevity, capable of withstanding the rigors of even the most challenging of travels.</p>\n<p class=\"p2\">Jezebel is a testament to the beauty of eco-conscious design. Its materials are thoughtfully sourced and sustainably harvested, embodying a commitment to both beauty and the preservation of the natural world. The hues of the frames are inspired by the radiant colors of the Jezebel butterfly, evoking a sense of wonder and delight in all those who behold them.</p>",
+            "author": {
+                "name": "Viceroy"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-12T21:41:50+10:00",
+            "date_modified": "2023-07-12T21:41:50+10:00"
+        },
+        {
+            "id": "https://vice-roy.com/amazon.html",
+            "url": "https://vice-roy.com/amazon.html",
+            "title": "AMAZON ",
+            "summary": "Amazon embodies the spirit of the modern-day woman, who is an explorer at heart, revealing in cultural experiences that range&hellip;",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://vice-roy.com/media/posts/2/IMG_1590.jpg\" alt=\"\" width=\"431\" height=\"603\" sizes=\"(min-width: 37.5em) 1600px, 90vw\" srcset=\"https://vice-roy.com/media/posts/2/responsive/IMG_1590-xs.jpg 384w ,https://vice-roy.com/media/posts/2/responsive/IMG_1590-sm.jpg 600w ,https://vice-roy.com/media/posts/2/responsive/IMG_1590-md.jpg 768w ,https://vice-roy.com/media/posts/2/responsive/IMG_1590-lg.jpg 1200w ,https://vice-roy.com/media/posts/2/responsive/IMG_1590-xl.jpg 1600w\"></figure>\n<p class=\"align-left\">Amazon embodies the spirit of the modern-day woman, who is an explorer at heart, revealing in cultural experiences that range from museum tours to lively markets, while always on the move, traveling the world. The lightweight and resilient zebra wood frame imbues these sunglasses with both sophistication and durability, ensuring that they can withstand any adventure you embark on. The polarised lenses provide crystal-clear vision, shielding your eyes from harmful UV rays and letting you see the world through a lens of clarity and beauty.</p>\n<p> </p>",
+            "author": {
+                "name": "Viceroy"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-12T21:35:59+10:00",
+            "date_modified": "2023-07-12T21:42:25+10:00"
+        },
+        {
             "id": "https://vice-roy.com/product-page-example.html",
             "url": "https://vice-roy.com/product-page-example.html",
             "title": "V I C E  R O Y ",
